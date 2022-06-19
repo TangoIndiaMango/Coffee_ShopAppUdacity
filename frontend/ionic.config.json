@@ -1,0 +1,9 @@
+{
+  "name": "udaspicelatte",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    }
+  },
+  "type": "angular"
+}
